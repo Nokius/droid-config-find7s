@@ -9,6 +9,7 @@ Requires:
 - pattern:jolla-ui-configuration-find7s
 
 - droid-hal-find7s
+- droid-hal-find7s-detritus
 - droid-hal-find7s-img-boot
 - droid-hal-find7s-kernel-modules
 - droid-config-find7s-sailfish
