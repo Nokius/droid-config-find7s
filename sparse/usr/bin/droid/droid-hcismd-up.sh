@@ -11,7 +11,7 @@ seq 1 $MAXTRIES | while read i ; do
         # found hci0, exit successfully
         exit 0
     fi
-    sleep 1
+    sleep 10
     if [ $i == $MAXTRIES ] ; then
         # must have gotten through all our retries, fail
         exit 1
