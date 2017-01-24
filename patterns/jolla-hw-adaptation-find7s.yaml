@@ -76,6 +76,9 @@ Requires:
 # For devices where test_gps eventually gets a fix:
 - geoclue-provider-hybris
 
+# For offline location provider
+- geoclue-provider-mlsdb
+
 # for audio during calls
 - pulseaudio-modules-droid-glue
 
