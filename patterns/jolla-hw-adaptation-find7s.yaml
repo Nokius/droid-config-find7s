@@ -12,6 +12,7 @@ Requires:
 - droid-hal-find7s-detritus
 - droid-hal-find7s-img-boot
 - droid-hal-find7s-kernel-modules
+- droid-config-find7s-flashing
 - droid-config-find7s-sailfish
 - droid-config-find7s-pulseaudio-settings
 - droid-config-find7s-policy-settings
